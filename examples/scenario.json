@@ -1,0 +1,12 @@
+{
+  "name": "调整平滑系数",
+  "settings": {
+    "smoothing": 1,
+    "alertAt": 0.2
+  },
+  "checkpoint": {
+    "metric": "diagnostics.totalVariation",
+    "expected": 0.6862745098039216,
+    "absoluteTolerance": 1e-10
+  }
+}

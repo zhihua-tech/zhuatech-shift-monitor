@@ -1,0 +1,19 @@
+{
+  "title": "类别分布漂移监测验收样本",
+  "settings": {
+    "smoothing": 0.5,
+    "alertAt": 0.2
+  },
+  "rows": [
+    {
+      "id": "网页",
+      "baselineCount": 80,
+      "currentCount": 10
+    },
+    {
+      "id": "移动",
+      "baselineCount": 20,
+      "currentCount": 90
+    }
+  ]
+}

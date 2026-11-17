@@ -1,0 +1,10 @@
+{
+  "metrics": {
+    "alert": true,
+    "categories": 2
+  },
+  "row": {
+    "id": "移动",
+    "direction": "上升"
+  }
+}
